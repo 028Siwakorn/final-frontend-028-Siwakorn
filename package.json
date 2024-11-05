@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://028Siwakorn.github.io/Portfolio_2567/",
+  "homepage": "https://028Siwakorn.github.io/final-frontend-028-Siwakorn/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
